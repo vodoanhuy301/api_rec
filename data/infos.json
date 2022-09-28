@@ -1,0 +1,1 @@
+{"index_key": "HNSW15", "index_param": "efSearch=1591", "index_path": "/content/data/knn.index", "size in bytes": 15474170, "avg_search_speed_ms": 9.333257060690904, "99p_search_speed_ms": 14.332483400016804, "reconstruction error %": 0.0, "nb vectors": 7085, "vectors dimension": 512, "compression ratio": 0.9376968199263677}
